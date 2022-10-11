@@ -1,0 +1,31 @@
+body {
+    background-color: rgba(105, 90, 205, 0.401);
+}
+
+.page-header {
+    background-color: slateblue;
+    margin-bottom: 40px;
+    padding: 20px 30px;
+}
+
+.page-header h1,
+.page-header h1 a,
+.page-header h1 a:visited,
+.page-header h1 a:active {
+    color: #ffffff;
+    font-size: 36pt;
+    text-decoration: none;
+    font-family: 'VT323';
+}
+
+.post {
+    padding: 20px;
+    border: 3px solid slateblue;
+    border-radius: 10px;
+    margin: 20px;
+    background-color: rgb(218, 213, 255);
+}
+
+.post h2 {
+    font-family: 'VT323'
+}
